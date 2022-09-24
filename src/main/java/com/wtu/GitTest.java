@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("git01");
         System.out.println("git02");
         System.out.println("git03");
+        System.out.println("git04");
     }
 }
